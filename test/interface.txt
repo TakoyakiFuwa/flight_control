@@ -1,0 +1,21 @@
+MPU6500
++————————
+ | VCC 		|
+ | GND		|
+ | SCL		|
+ | SDA
+ | EDA
+ | ECL
+ | ADD
+ | INT
+ | NCS
+ | FSYNC
+
+BMP280
++————————
+ | 3.3V
+ | GND
+ | SCL
+ | SDA
+ | CSB
+ | SDO
